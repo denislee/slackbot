@@ -9,3 +9,4 @@ In order to create the right token type, please create using a classic app from 
 
 More info @ https://github.com/slackapi/node-slack-sdk/issues/953
 
+There is an issue opened about this API key working on only classic apps https://github.com/shomali11/slacker/issues/63
